@@ -3,6 +3,6 @@
 int main(void)
 {
     // Conflict 1
-    printf("Hello world\n");
+    printf("Hello world!\n");
     // Additional line
 }
